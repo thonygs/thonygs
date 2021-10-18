@@ -1,8 +1,8 @@
 ### Hey guys! ⚡🚀
 ## I'm Anthony Silva
 - I live in Cuiabá-MT <img src="https://user-images.githubusercontent.com/82158439/137811045-851bf2e5-bae8-419b-bea3-1055121823f4.png" width="20px">
-- I'm a computer network student 💻
-- I'm a frontend developer 👨‍💻
+- I'm a Technician of Computer Network (Student) 💻
+- I'm a Technician of Computer Maintenance and Support (Student)
 
 ## My Github Status:
 <div align="center">
@@ -11,14 +11,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonygs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="AGS-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="AGS-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="AGS-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="AGS-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="AGS-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="AGS-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="AGS-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="AGS-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <code><img alt="AGS-HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img alt="AGS-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img alt="AGS-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img alt="AGS-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img alt="AGS-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img alt="AGS-Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></code>
+  <code><img alt="AGS-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img alt="AGS-VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
   
 </div>
   
