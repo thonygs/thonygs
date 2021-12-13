@@ -1,7 +1,7 @@
 ### Hey guys! ⚡🚀
 ## I'm Anthony Silva
 - I live in Cuiabá-MT <img src="https://user-images.githubusercontent.com/82158439/137811045-851bf2e5-bae8-419b-bea3-1055121823f4.png" width="20px">
-- I'm a Technician of Computer Network (Student) 💻
+- I'm a Technician of Computer Network (Completed) 💻
 - I'm a Technician of Computer Maintenance and Support (Student)
 
 ## My Github Status:
